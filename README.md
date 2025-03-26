@@ -11,7 +11,7 @@ Your organization needs a new Windows Server 2016 to act as a Domain Controller 
 - <b>Windows Server 2016</b>
 - <b>Windows 11</b>
 
-<h2>Program walk-through:</h2>
+<h2>Server Setup:</h2>
 
 <p align="center">
 Launch the utility: <br/>
