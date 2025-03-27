@@ -42,11 +42,86 @@ Now, the computer will be restarted for the IP address change to take effect. Wh
 <img src=https://imgur.com/0TKpGD8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The new name was applied.  <br/>
+The name change was applied.  <br/>
 <img src=https://imgur.com/ja7AloT.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+I navigated to Manage > Add Roles and Features. The Add Roles and Features wizard in Windows Server 2016 allows for the installation and configuration of server roles, role services, and features that enhance the server's functionality.  <br/>
+<img src=https://imgur.com/e9JpWPU.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src="https://imgur.com/4RUQyYg.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 
