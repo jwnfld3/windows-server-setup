@@ -151,20 +151,20 @@ Now, the computer needs to be joined to the domain. Navigate to Settings<br/>
 <img src="https://imgur.com/dEao5GA.png height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Click "Restart Now"<br/>
-<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+Navigate to System and scroll down to About.<br/>
+<img src="https://imgur.com/i7KhqUQ.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Click "Restart Now"<br/>
-<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+Click on “Domain or workgroup”<br/>
+<img src="https://imgur.com/9RniEKD.png height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Click "Restart Now"<br/>
-<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+Click "Change"<br/>
+<img src=https://imgur.com/FK1Dy8h.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Click "Restart Now"<br/>
-<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+After entering the domain name assigned to the server, the system prompts for the administrator username and password. Upon successful authentication, a confirmation message appears indicating that the server has joined the domain.<br/>
+<img src="https://imgur.com/TLkgUea.png height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Click "Restart Now"<br/>
