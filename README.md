@@ -139,7 +139,7 @@ Now that the server (WA-LAB) is set up, we need to configure the server's addres
 <br />
 <img src="https://imgur.com/bDbcuXQ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Click on the drop-down menu and select Manual. Enter the IP settings from the server under Preferred DNS and then click Save.
+Select Manual from the drop-down, enter the server's IP address under Preferred DNS, and click Save.
 <img src="https://imgur.com/mblk7hl.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
