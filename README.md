@@ -4,7 +4,6 @@
 Your organization needs a new Windows Server 2016 to act as a Domain Controller (DC) for managing user authentication, security policies, and devices. In this lab, you will set up a Windows Server 2016 virtual machine, configure Active Directory Domain Services (AD DS), and promote it to a Domain Controller.
 <br />
 
-
 <h2>Environments Used </h2>
 
 - <b>Hyper-V</b>
@@ -15,8 +14,7 @@ Your organization needs a new Windows Server 2016 to act as a Domain Controller 
 
 <p align="center">
 Launch the utility: <br/>
-<img src="
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
