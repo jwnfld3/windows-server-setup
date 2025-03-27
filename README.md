@@ -121,6 +121,21 @@ GPSVC (Group Policy Client Service) is a Windows service responsible for process
 <img src="https://imgur.com/C5aQzba.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ After the restart was completed, it was confirmed that the DNS records had appeared.
+<img src="https://imgur.com/PsA3H5z.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+The Active Directory Users and Computers console has appeared.  <br/>
+<img src="https://imgur.com/QCtlxfl.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />.  <br/>
 <img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -128,7 +143,46 @@ GPSVC (Group Policy Client Service) is a Windows service responsible for process
 <img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+.  <br/>
+<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 
