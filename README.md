@@ -86,11 +86,11 @@ Create a Directory Services Restore Mode (DSRM) password. This password is requi
 <img src="https://imgur.com/mHotZQr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+DNS is not installed on this server; however, Active Directory will handle the DNS configuration automatically during the promotion process.  <br/>
+<img src="https://imgur.com/gXR1SwE.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
+ <br/>
 <img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
