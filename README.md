@@ -66,8 +66,8 @@ Active Directory Domain Services (AD DS) must be selected to add it to the serve
 <img src="https://imgur.com/cVW2fHj.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+For now, only the on-premises server is being installed in this scenario <br/>
+<img src="https://imgur.com/vYkXu9e.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 .  <br/>
