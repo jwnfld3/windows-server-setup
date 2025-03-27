@@ -1,4 +1,4 @@
-<h1>Deploying a Windows Server 2016 and Configuring Active Directory</h1>
+<h1>Deploying a Windows Server and Configuring Active Directory</h1>
 
 <h2>Scenario </h2>
 Your organization needs a new Windows Server 2016 to act as a Domain Controller (DC) for managing user authentication, security policies, and devices. In this lab, you will set up a Windows Server 2016 virtual machine, configure Active Directory Domain Services (AD DS), and promote it to a Domain Controller.
@@ -14,15 +14,16 @@ Your organization needs a new Windows Server 2016 to act as a Domain Controller 
 
 <p align="center">
 <br/>
-<img src="https://imgur.com/wNaj3cd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/wNaj3cd.png" height="130%" width="130%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+I’m renaming the machine, but notice that I haven’t assigned it to a domain yet, as a domain will be created.<br/>
+<img src="https://imgur.com/WLLrXXK.png" height="130%" width="130%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The computer needs to be restarted for the name change to take effect, but I chose to click "Restart Later" so I can first review the network settings. <br/>
+<img src="https://imgur.com/vRWevEt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
