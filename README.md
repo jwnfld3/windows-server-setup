@@ -71,7 +71,7 @@ For now, only the on-premises server is being installed in this scenario <br/>
 <br />
 <br />
 <br/>
-<img src="https://imgur.com/BzKtAAT.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0e65EgS.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 After the features were installed, a notification appears under the pennant. Click on "Promote this server to a domain controller."  <br/>
@@ -175,12 +175,7 @@ The computer must be restarted for the changes to take effect.<br />
 <img src="https://imgur.com/oBrsARB.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Click "Restart Now"<br/>
-<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Click "Restart Now"<br/>
-<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
 
 
 
