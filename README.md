@@ -34,12 +34,12 @@ I right-clicked the Ethernet icon and selected Properties.  <br/>
 <img src=https://imgur.com/6aGKJk4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+I accessed the properties for TCP/IPv4 to configure a static IP address. This is essential because the domain controller requires a static IP to ensure domain-joined computers can locate it, providing stability and proper network configuration.  <br/>
+<img src=https://imgur.com/Z5OAsVI.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now, the computer will be restarted for the IP address change to take effect. When restarting a Windows Server, a reason must be provided for future records. Since this was an IP address reconfiguration, I selected "Operating System: Reconfiguration (Planned)."  <br/>
+<img src=https://imgur.com/0TKpGD8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
