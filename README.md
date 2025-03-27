@@ -112,8 +112,8 @@ Green: This message explains that Active Directory will automatically install DN
 <img src="https://imgur.com/r5VlwoG.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once the installation is complete, the server will automatically restart.  <br/>
+<img src="https://imgur.com/ajhxW7i.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 .  <br/>
