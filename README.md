@@ -105,12 +105,11 @@ Reviewing the changes before proceeding.<br/>
 <img src="https://imgur.com/XKpn7iS.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Blue: This message indicates that the server supports older encryption protocols, allowing compatibility with legacy NT servers, enabling them to interact with the domain.
 <br />
+Green: This message explains that Active Directory will automatically install DNS, which is necessary to establish a database for domain management and name resolution.
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/r5VlwoG.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 .  <br/>
