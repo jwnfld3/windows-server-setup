@@ -78,12 +78,12 @@ After the features were installed, a notification appears under the pennant. Cli
 <img src="https://imgur.com/1eo5EpE.png height="45%" width="45%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+This is a brand-new server and is not being added to an existing forest. The root domain name has also been selected.  <br/>
+<img src="https://imgur.com/8GrlXrv.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a Directory Services Restore Mode (DSRM) password. This password is required to restore Active Directory from a backup in the event of a system failure or other issues.  <br/>
+<img src="https://imgur.com/mHotZQr.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 .  <br/>
