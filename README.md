@@ -26,7 +26,7 @@ The computer needs to be restarted for the name change to take effect, but I cho
 <img src="https://imgur.com/vRWevEt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Go to Start > Settings > Network & Internet > :  <br/>
+In the search Windows search bar type in Control Panel > Network and Internet > Network and Sharing Center > Change adapter settings :  <br/>
 <img src="https://imgur.com/fckBPyk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
