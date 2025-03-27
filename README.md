@@ -13,8 +13,8 @@ Your organization needs a new Windows Server 2016 to act as a Domain Controller 
 <h2>Install and configure Windows Server 2016:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://imgur.com/wNaj3cd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
