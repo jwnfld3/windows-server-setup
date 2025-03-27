@@ -141,9 +141,42 @@ Now that the server (WA-LAB) is set up, we need to configure the server's addres
 <br />
 Select Manual from the drop-down, enter the server's IP address under Preferred DNS, and click Save.
 <img src="https://imgur.com/mblk7hl.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
-
-
-
+<br />
+<br />
+Rename the Windows 11 computer.<br/>
+<img src="https://imgur.com/LeRU12V.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Now, the computer needs to be joined to the domain. Navigate to Settings<br/>
+<img src="https://imgur.com/dEao5GA.png height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click "Restart Now"<br/>
+<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click "Restart Now"<br/>
+<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click "Restart Now"<br/>
+<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click "Restart Now"<br/>
+<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click "Restart Now"<br/>
+<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click "Restart Now"<br/>
+<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Click "Restart Now"<br/>
+<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
