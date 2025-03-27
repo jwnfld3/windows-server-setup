@@ -50,20 +50,20 @@ I navigated to Manage > Add Roles and Features. The Add Roles and Features wizar
 <img src=https://imgur.com/e9JpWPU.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
+<br/>
 <img src="https://imgur.com/4RUQyYg.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select Role-based or feature-based installation.  <br/>
+<img src="https://imgur.com/b36tZZM.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 .  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/EAMO5Y6.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Active Directory Domain Services (AD DS) must be selected to add it to the server.  <br/>
+<img src="https://imgur.com/cVW2fHj.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 .  <br/>
