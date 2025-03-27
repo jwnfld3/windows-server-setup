@@ -116,11 +116,11 @@ Once the installation is complete, the server will automatically restart.  <br/>
 <img src="https://imgur.com/ajhxW7i.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+GPSVC (Group Policy Client Service) is a Windows service responsible for processing and applying Group Policy settings for users and computers within an Active Directory environment. It ensures that security policies, configurations, and restrictions are applied during startup, login, and refresh intervals. For example, GPSVC can enforce a password policy that requires users to change their password after a specified period.  <br/>
+  <br/>
+<img src="https://imgur.com/C5aQzba.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
 <img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
