@@ -26,8 +26,8 @@ The computer needs to be restarted for the name change to take effect, but I cho
 <img src="https://imgur.com/vRWevEt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Go to Start > Settings > Network & Internet > :  <br/>
+<img src="https://imgur.com/fckBPyk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
