@@ -129,10 +129,26 @@ The Active Directory Users and Computers console has appeared.  <br/>
 <img src="https://imgur.com/QCtlxfl.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Now that the server (WA-LAB) is set up, we need to configure the server's address as the DNS server on the Windows computer. If this isn't done, the computer won't be able to join the domain. Go to the Start menu and click on Settings.
-<img src="https://imgur.com/263rExf.png height="40%" width="40%" alt="Disk Sanitization Steps"/>
+Now that the server (WA-LAB) is set up, we need to configure the server's address as the DNS server on the Windows computer. Without this, the computer will be unable to join the domain. Open the Start menu, click on Settings, then go to Network & Internet, and select Ethernet.
+  <br/>
+ <img src="https://imgur.com/263rExf.png height="40%" width="40%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <img src="https://imgur.com/pSx4KQj.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
+ <img src="https://imgur.com/48mCD69.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<img src="https://imgur.com/bDbcuXQ.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Click on the drop-down menu and select Manual. Enter the IP settings from the server under Preferred DNS and then click Save.
+<img src="https://imgur.com/mblk7hl.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+
+
+
+
+
+
+
 
 
 
