@@ -90,12 +90,19 @@ DNS is not installed on this server; however, Active Directory will handle the D
 <img src="https://imgur.com/gXR1SwE.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Name the NetBIOS domain. The NetBIOS domain is a legacy naming convention used by Windows to identify a domain in a network. It is based on the NetBIOS (Network Basic Input/Output System) protocol, which was widely used in earlier Windows environments for network communication and resource sharing.
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Why It's on Server 2016:
+NetBIOS support is included in Windows Server 2016 to ensure backward compatibility. Many older systems and applications still rely on NetBIOS for domain identification. By maintaining NetBIOS domain support, Server 2016 ensures seamless integration with older devices, networks, and applications.<br/>
+<br />
+<br />
+ Locations where the logs and files will be stored.
+<img src="https://imgur.com/vWpkpEu.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Reviewing the changes before proceeding.<br/>
+<img src="https://imgur.com/XKpn7iS.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 .  <br/>
