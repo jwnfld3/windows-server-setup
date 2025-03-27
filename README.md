@@ -40,6 +40,21 @@ I accessed the properties for TCP/IPv4 to configure a static IP address. This is
 <br />
 Now, the computer will be restarted for the IP address change to take effect. When restarting a Windows Server, a reason must be provided for future records. Since this was an IP address reconfiguration, I selected "Operating System: Reconfiguration (Planned)."  <br/>
 <img src=https://imgur.com/0TKpGD8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+The new name was applied.  <br/>
+<img src=https://imgur.com/ja7AloT.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
+
+
+
+
+
+ 
 </p>
 
 <!--
