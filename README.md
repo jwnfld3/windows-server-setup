@@ -1,7 +1,7 @@
 <h1>Deploying a Windows Server and Configuring Active Directory</h1>
 
 <h2>Scenario </h2>
-Your organization needs a new Windows Server 2016 to act as a Domain Controller (DC) for managing user authentication, security policies, and devices. In this lab, you will set up a Windows Server 2016 virtual machine, configure Active Directory Domain Services (AD DS), and promote it to a Domain Controller.
+The organization needs a new Windows Server 2016 to act as a Domain Controller (DC) for managing user authentication, security policies, and devices. In this lab, set up a Windows Server 2016 virtual machine, configure Active Directory Domain Services (AD DS), and promote it to a Domain Controller.
 <br />
 
 <h2>Environments Used </h2>
@@ -22,8 +22,8 @@ I’m renaming the machine, but notice that I haven’t assigned it to a domain 
 <img src="https://imgur.com/WLLrXXK.png" height="130%" width="130%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-The computer needs to be restarted for the name change to take effect, but I chose to click "Restart Later" so I can first review the network settings. <br/>
-<img src="https://imgur.com/vRWevEt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+The computer must be restarted for the name change to take effect, but I selected "Restart Later" to first review the network settings.
+ <img src="https://imgur.com/vRWevEt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 In the search Windows search bar type in Control Panel > Network and Internet > Network and Sharing Center > Change adapter settings :  <br/>
