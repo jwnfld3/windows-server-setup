@@ -167,8 +167,12 @@ After entering the domain name assigned to the server, the system prompts for th
 <img src="https://imgur.com/TLkgUea.png height="30%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Click "Restart Now"<br/>
-<img src="https://imgur.com/48cncud.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
+The computer must be restarted for the changes to take effect.<br />
+<img src="https://imgur.com/CtIvLX5.png height="30%" width="30%" alt="Disk Sanitization Steps"/>
+<br/>
+<br />
+ To verify the connection to the server, use the administrator credentials created on the server (e.g., domain\administrator). A successful login confirms that the computer has been joined to the domain.<br />
+<img src="https://imgur.com/oBrsARB.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Click "Restart Now"<br/>
