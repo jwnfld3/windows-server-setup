@@ -79,7 +79,7 @@ After the features were installed, a notification appears under the pennant. Cli
 <br />
 <br />
 This is a brand-new server and is not being added to an existing forest. The root domain name has also been selected.  <br/>
-<img src="https://imgur.com/8GrlXrv.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lsvCiQz.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a Directory Services Restore Mode (DSRM) password. This password is required to restore Active Directory from a backup in the event of a system failure or other issues.  <br/>
@@ -102,7 +102,7 @@ NetBIOS support is included in Windows Server 2016 to ensure backward compatibil
 <br />
 <br />
 Reviewing the changes before proceeding.<br/>
-<img src="https://imgur.com/XKpn7iS.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0fsfam8.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Blue: This message indicates that the server supports older encryption protocols, allowing compatibility with legacy NT servers, enabling them to interact with the domain.
@@ -122,65 +122,15 @@ GPSVC (Group Policy Client Service) is a Windows service responsible for process
 <br />
 <br />
  After the restart was completed, it was confirmed that the DNS records had appeared.
-<img src="https://imgur.com/PsA3H5z.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/BKxxrcA.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The Active Directory Users and Computers console has appeared.  <br/>
 <img src="https://imgur.com/QCtlxfl.png height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Now that the server (WA-LAB) is set up, we need to configure the server's address as the DNS server on the Windows computer. If this isn't done, the computer won't be able to join the domain. Go to the Start menu and click on Settings.
+<img src="https://imgur.com/263rExf.png height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
