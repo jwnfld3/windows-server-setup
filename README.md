@@ -70,12 +70,12 @@ For now, only the on-premises server is being installed in this scenario <br/>
 <img src="https://imgur.com/vYkXu9e.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://imgur.com/BzKtAAT.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-.  <br/>
-<img src=" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+After the features were installed, a notification appears under the pennant. Click on "Promote this server to a domain controller."  <br/>
+<img src="https://imgur.com/1eo5EpE.png height="45%" width="45%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 .  <br/>
