@@ -9,7 +9,7 @@ This lab focuses on deploying a Windows Server, installing Active Directory Doma
 - <b>Windows Server 2016</b>
 - <b>Windows 11</b>
 
-<h2>Install and configure Windows Server 2016:</h2>
+<h2>Install and configure Windows Server 2016</h2>
 
 <p align="center">
 <br/>
