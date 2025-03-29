@@ -1,7 +1,6 @@
 <h1>Deploying a Windows Server and Configuring Active Directory</h1>
 
-<h2>Scenario </h2>
-The organization needs a new Windows Server 2016 to act as a Domain Controller (DC) for managing user authentication, security policies, and devices. In this lab, set up a Windows Server 2016 virtual machine, configure Active Directory Domain Services (AD DS), and promote it to a Domain Controller.
+This lab focuses on deploying a Windows Server, installing Active Directory Domain Services (AD DS), and configuring a domain environment. Active Directory is a critical component in enterprise IT infrastructure, enabling centralized authentication, authorization, and management of users, computers, and network resources.
 <br />
 
 <h2>Environments Used </h2>
