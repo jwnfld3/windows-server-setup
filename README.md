@@ -1,13 +1,38 @@
-<h1>Deploying a Windows Server and Configuring Active Directory</h1>
+# Windows Server Setup Lab
 
-This lab focuses on deploying a Windows Server, installing Active Directory Domain Services (AD DS), and configuring a domain environment. Active Directory is a critical component in enterprise IT infrastructure, enabling centralized authentication, authorization, and management of users, computers, and network resources.
-<br />
+## Summary
+This lab provides a step-by-step guide for setting up a **Windows Server** environment, covering the installation and basic configuration of Windows Server 2019 or newer. The lab includes tasks such as configuring server roles, networking settings, Active Directory setup, and security best practices. Participants will also learn how to integrate the server with other enterprise services and applications, ensuring a secure and optimized server environment.
 
-<h2>Environments Used </h2>
+## Lab Requirements:
+- A physical or virtual machine with at least **4GB of RAM** and **40GB of free disk space**.
+- **Windows Server 2016** or newer installation media (ISO or DVD).
+- **Administrator access** to the server machine.
+- Basic understanding of server hardware and network configuration.
+- **Internet connection** for downloading updates and additional tools.
+- Optional: Access to **Active Directory** and **DNS** server for testing domain-based configurations.
 
-- <b>Hyper-V</b>
-- <b>Windows Server 2016</b>
-- <b>Windows 11</b>
+## Who:
+- IT administrators, system engineers, and anyone interested in learning about Windows Server installation and management.
+- Individuals looking to expand their knowledge of server infrastructure and configuration.
+- Anyone preparing for a **Microsoft Certified: Windows Server** certification or looking to gain hands-on experience with Windows Server.
+
+## What:
+- This lab guides participants through setting up a **Windows Server** environment, covering installation, configuration of server roles, Active Directory setup, and basic security measures.
+- The lab will involve configuring networking, managing users and groups, and ensuring the server is ready for domain integration.
+
+## When:
+- This lab can be set up and completed at any time, with an estimated completion time of **2-3 hours** for the full setup, depending on familiarity with server environments.
+- It is recommended to perform the lab during a maintenance window or in a controlled environment to avoid disrupting any live services.
+
+## Where:
+- The lab is conducted on a physical or virtual server that is **isolated** from production systems for testing purposes.
+- Participants will need access to the **Windows Server 2019** installation media, which can be obtained from Microsoft’s official website or Volume Licensing Service Center.
+
+## Why:
+- To provide hands-on experience in setting up a Windows Server environment and understanding the critical roles it plays in enterprise infrastructure.
+- To learn how to install, configure, and secure a Windows Server machine, preparing it for use in a domain or networked environment.
+- To understand best practices in server management and gain familiarity with the administrative tools available in Windows Server.
+
 
 <h2>Install and configure Windows Server 2016</h2>
 
