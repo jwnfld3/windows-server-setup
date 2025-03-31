@@ -1,4 +1,4 @@
-# Windows Server Setup Lab
+# Windows Server Setup
 
 ## Summary
 This lab provides a step-by-step guide for setting up a **Windows Server** environment, covering the installation and basic configuration of Windows Server 2016 or newer. The lab includes tasks such as configuring server roles, networking settings, Active Directory setup, and security best practices. Participants will also learn how to integrate the server with other enterprise services and applications, ensuring a secure and optimized server environment.
