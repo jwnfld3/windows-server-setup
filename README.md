@@ -118,23 +118,38 @@ Since this is a home server setup Yes was clicked for discovery of other PCs.
 1. Open **Network and Sharing Center** from the Control Panel.
 ![image](https://github.com/user-attachments/assets/a3f92d5a-b08a-4419-80db-7ac0e6ac7e0c)
 ![image](https://github.com/user-attachments/assets/fac78f82-8081-4fa8-ad29-e7b7793d4c46)
+![image](https://github.com/user-attachments/assets/57ba78e7-b4e4-4b20-a577-099e9414f616)
 
 3. Click **Change adapter settings** on the left panel.
-4. Right-click your network adapter and select **Properties**.
-5. Select **Internet Protocol Version 4 (TCP/IPv4)** and click **Properties**.
-6. Assign a **static IP address**, **subnet mask**, and **DNS settings** as needed.
-7. Click **OK** and close all network settings windows.
+![image](https://github.com/user-attachments/assets/057c8fb7-3817-49d6-baa4-523f19316e5f)
+
+5. Right-click your network adapter and select **Properties**.
+![image](https://github.com/user-attachments/assets/4640e2ba-8d85-4b03-85a5-8bb3490658ce)
+
+7. Select **Internet Protocol Version 4 (TCP/IPv4)** and click **Properties**.
+![image](https://github.com/user-attachments/assets/6d53e2df-befa-4fc5-af0c-0636106dec17)
+
+9. Assign a **static IP address**, **subnet mask**, and **DNS settings** as needed.
+10. Click **OK** and close all network settings windows.
+![image](https://github.com/user-attachments/assets/3a77de11-ea81-4aca-8731-4e5aec23c7d7)
 
 ### Step 7: Enable Remote Desktop
 1. Open **Server Manager** and go to **Local Server**.
 2. Click **Remote Desktop: Disabled**.
-3. Select **Allow remote connections to this computer**.
-4. Apply the settings and close the window.
+![image](https://github.com/user-attachments/assets/50886ac8-4c89-4f30-b5d0-d40e882cb3dd)
+
+4. Select **Allow remote connections to this computer**.
+5. Apply the settings and close the window.
+![image](https://github.com/user-attachments/assets/8ecd4b91-555e-47af-8143-4d9727a33358)
+![image](https://github.com/user-attachments/assets/5d2d2744-42e7-4e19-89eb-1be0aee19096)
 
 ### Step 8: Install Windows Updates
 1. Open **Settings > Update & Security**.
 2. Click **Check for updates**.
 3. Install all available updates and restart the server if required.
+![image](https://github.com/user-attachments/assets/8c9b3285-2fd9-424f-a0b0-b67a4b9704d1)
+![image](https://github.com/user-attachments/assets/03b645c3-27ff-4534-8002-8af2609d1797)
+
 
 ### Step 9: Install Hyper-V Integration Services (If Needed)
 1. Open **Hyper-V Manager**.
