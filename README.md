@@ -39,13 +39,26 @@ This step-by-step lab guides you through installing **Windows Server 2022** on a
 4. Click **Next** and follow the wizard to configure the virtual machine:
    - **Name**: Enter a name for the VM (e.g., `Server2022-VM`).
    - **Location**: Choose a location for storing the VM files or use the default path.
+![image](https://github.com/user-attachments/assets/25e6bb2f-1e09-4570-a322-a65a373daec2)
+
    - **Generation**: Select **Generation 1** (unless you need UEFI support, in which case, select **Generation 2**).
+![image](https://github.com/user-attachments/assets/f3c8c940-7c46-4486-804e-e475b33c3781)
+
    - **Memory**: Allocate at least **4GB RAM** (recommend 8GB or more for better performance).
+![image](https://github.com/user-attachments/assets/b6be1ebc-bd5f-4371-a2b6-55dc548fc587)
+
    - **Network**: Select a virtual switch for networking (e.g., Default Switch).
+![image](https://github.com/user-attachments/assets/2adc1bcf-1e0d-4988-ad1b-43a90fd341a8)
+
    - **Hard Disk**: Create a new virtual hard disk (at least 50GB).
+![image](https://github.com/user-attachments/assets/59ad5b68-7675-44da-b935-3cda3e20396e)
+
    - **Installation Options**: Choose **Install an operating system from a bootable image file**, and browse to the **Windows Server 2022 ISO**.
+![image](https://github.com/user-attachments/assets/59ab600b-4319-4d88-a6c7-7a7187f4f371)
 
 5. Click **Next** and **Finish**.
+![image](https://github.com/user-attachments/assets/43a4d291-4cde-46f6-847d-c4610084cfd3)
+
 
 ### Step 2: Start the Virtual Machine and Boot from the ISO
 1. In **Hyper-V Manager**, select the newly created virtual machine.
