@@ -59,21 +59,37 @@ This step-by-step lab guides you through installing **Windows Server 2022** on a
 5. Click **Next** and **Finish**.
 ![image](https://github.com/user-attachments/assets/43a4d291-4cde-46f6-847d-c4610084cfd3)
 
-
 ### Step 2: Start the Virtual Machine and Boot from the ISO
 1. In **Hyper-V Manager**, select the newly created virtual machine.
 2. Right-click the VM and select **Connect**.
-3. In the **Virtual Machine Connection** window, click **Start** to power on the VM.
-4. When prompted, press any key to boot from the ISO.
-5. The **Windows Setup** screen will appear. Choose your **Language, Time, and Keyboard settings**, then click **Next**.
+![image](https://github.com/user-attachments/assets/c1e039bf-4fd2-41af-88bf-a8091f395b17)
+
+4. In the **Virtual Machine Connection** window, click **Start** to power on the VM.
+![image](https://github.com/user-attachments/assets/d20a2f3a-8a8e-4820-a8aa-135efc8c4310)
+
+6. When prompted, press any key to boot from the ISO.
+7. The **Windows Setup** screen will appear. Choose your **Language, Time, and Keyboard settings**, then click **Next**.
+![image](https://github.com/user-attachments/assets/cc743ec8-5f40-4798-8a78-433b5c806738)
 
 ### Step 3: Install Windows Server 2022
 1. Click **Install Now**.
-2. Select the **Windows Server edition** (Standard or Datacenter, with or without Desktop Experience).
-3. Click **Next** and accept the license agreement.
-4. Choose **Custom: Install Windows only (advanced)**.
-5. Select the virtual hard disk and click **Next** to begin the installation.
-6. The installation will proceed, and the system will reboot automatically.
+![image](https://github.com/user-attachments/assets/cdf062c3-b1ef-4a76-9fa7-89a28cab75c4)
+
+3. Select the **Windows Server edition** (Standard or Datacenter, with or without Desktop Experience).
+![image](https://github.com/user-attachments/assets/4983d612-dddb-4a6e-8d8c-c5aaf38ba9ec)
+
+5. Click **Next** and accept the license agreement.
+![image](https://github.com/user-attachments/assets/2a130e55-71e6-4796-9fc9-f6196188a2e1)
+
+7. Choose **Custom: Install Windows only (advanced)**.
+![image](https://github.com/user-attachments/assets/d14a37ed-3fb6-409e-b58c-f244af1ac1f9)
+
+9. Select the virtual hard disk and click **Next** to begin the installation.
+![image](https://github.com/user-attachments/assets/4ceff5b5-3b05-4192-a0ac-d34c966baade)
+
+11. The installation will proceed, and the system will reboot automatically.
+![image](https://github.com/user-attachments/assets/68d1a788-67b0-4168-b00c-aa58d253fc2b)
+
 
 ### Step 4: Initial Setup and Administrator Account
 1. After the reboot, you will be prompted to set an **Administrator password**.
