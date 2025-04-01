@@ -152,14 +152,19 @@ Since this is a home server setup Yes was clicked for discovery of other PCs.
 
 ### Step 9: Configure Security Settings
 1. Open **Windows Defender Firewall** and ensure it is enabled.
-2. Configure firewall rules as needed for your use case.
-3. Enable **Windows Defender Antivirus** and perform an initial scan.
+![image](https://github.com/user-attachments/assets/9a2a7e47-cc86-4b72-9a52-2a504d2c7745)
+![image](https://github.com/user-attachments/assets/68d1651a-6761-4e1b-be39-71bfc1052066)
 
 ### Step 10: Create a Checkpoint (Snapshot) in Hyper-V
 1. Open **Hyper-V Manager**.
 2. Right-click your VM and select **Checkpoint**.
-3. Name the checkpoint (e.g., `Fresh Install`).
-4. Click **OK** to save the snapshot.
+![image](https://github.com/user-attachments/assets/1dc728e9-239f-454a-b0db-dd1775526f98)
+3. Right-Click and select **Rename**
+![image](https://github.com/user-attachments/assets/bfbe1390-eb34-4e23-bbb4-f09a940c0f7d)
+
+4. Name the checkpoint (e.g., `Fresh Install`).
+![image](https://github.com/user-attachments/assets/9c9b1cad-65a2-4f43-9556-06dc8f2b4016)
+
 
 ---
 
