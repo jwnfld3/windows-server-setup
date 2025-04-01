@@ -95,7 +95,10 @@ This step-by-step lab guides you through installing **Windows Server 2022** on a
 1. After the reboot, you will be prompted to set an **Administrator password**.
 2. Enter a strong password and confirm it.
 3. Click **Finish**.
-4. Press **Ctrl+Alt+Delete**, select the **Administrator account**, and log in.
+![image](https://github.com/user-attachments/assets/b83b5520-437a-4f64-85a3-8fcfcec7caf6)
+
+5. Press **Ctrl+Alt+Delete**, select the **Administrator account**, and log in.
+![image](https://github.com/user-attachments/assets/b9e15be2-609e-4db1-8dc4-fa5c42ef2076)
 
 ### Step 5: Configure Basic Server Settings
 1. Open **Server Manager** (it should open automatically).
