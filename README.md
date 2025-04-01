@@ -165,13 +165,4 @@ Since this is a home server setup Yes was clicked for discovery of other PCs.
 4. Name the checkpoint (e.g., `Fresh Install`).
 ![image](https://github.com/user-attachments/assets/9c9b1cad-65a2-4f43-9556-06dc8f2b4016)
 
-
----
-
-## Next Steps
-- Install and configure **Active Directory Domain Services (AD DS)**
-- Set up a **DHCP and DNS Server**
-- Experiment with **Group Policies and Server Roles**
-- Explore **Windows Server Security Hardening**
-
-This lab helps you **set up a virtualized Windows Server 2022 environment** for testing and learning. Happy experimenting!
+This lab helps you **set up a virtualized Windows Server 2022 environment** for testing and learning.
