@@ -111,14 +111,19 @@ Since this is a home server setup Yes was clicked for discovery of other PCs.
    - Click the **Computer Name** field.
    - Click **Change** and enter a new name (e.g., `LAB-SERVER2022`).
    - Click **OK** and restart the server when prompted.
+![image](https://github.com/user-attachments/assets/ceecb63e-6504-4f38-a9d2-cf443a8b786b)
+
 
 ### Step 6: Configure Network Settings
 1. Open **Network and Sharing Center** from the Control Panel.
-2. Click **Change adapter settings** on the left panel.
-3. Right-click your network adapter and select **Properties**.
-4. Select **Internet Protocol Version 4 (TCP/IPv4)** and click **Properties**.
-5. Assign a **static IP address**, **subnet mask**, and **DNS settings** as needed.
-6. Click **OK** and close all network settings windows.
+![image](https://github.com/user-attachments/assets/a3f92d5a-b08a-4419-80db-7ac0e6ac7e0c)
+![image](https://github.com/user-attachments/assets/fac78f82-8081-4fa8-ad29-e7b7793d4c46)
+
+3. Click **Change adapter settings** on the left panel.
+4. Right-click your network adapter and select **Properties**.
+5. Select **Internet Protocol Version 4 (TCP/IPv4)** and click **Properties**.
+6. Assign a **static IP address**, **subnet mask**, and **DNS settings** as needed.
+7. Click **OK** and close all network settings windows.
 
 ### Step 7: Enable Remote Desktop
 1. Open **Server Manager** and go to **Local Server**.
