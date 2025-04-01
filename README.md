@@ -100,6 +100,10 @@ This step-by-step lab guides you through installing **Windows Server 2022** on a
 5. Press **Ctrl+Alt+Delete**, select the **Administrator account**, and log in.
 ![image](https://github.com/user-attachments/assets/b9e15be2-609e-4db1-8dc4-fa5c42ef2076)
 
+Since this is a home server setup Yes was clicked for discovery of other PCs.
+
+![image](https://github.com/user-attachments/assets/6061a9d9-eeca-40ff-8295-1acc9a4462e4)
+
 ### Step 5: Configure Basic Server Settings
 1. Open **Server Manager** (it should open automatically).
 2. Click **Local Server** on the left panel.
