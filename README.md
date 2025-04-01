@@ -14,7 +14,7 @@ This step-by-step lab guides you through installing **Windows Server 2022** on a
 - Internet connection
 
 ### Software:
-- **Windows Server 2022 ISO** Download from [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=2c976dd3dcd866de149f78d0ddf5675c)
+- **Windows Server 2022 ISO** Download from [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=2c976dd3dcd866de149f78d0ddf5675c.git)
 - **Hyper-V Manager** (pre-installed on Windows 10/11 Pro, Enterprise, and Windows Server)
 
 ---
