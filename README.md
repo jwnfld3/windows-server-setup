@@ -34,7 +34,9 @@ This step-by-step lab guides you through installing **Windows Server 2022** on a
 ### Step 1: Open Hyper-V Manager and Create a New Virtual Machine
 1. Open **Hyper-V Manager** from the Start Menu.
 2. In the **Actions** panel on the right, click **New**, then **Virtual Machine**.
-3. Click **Next** and follow the wizard to configure the virtual machine:
+![image](https://github.com/user-attachments/assets/c1a06c29-1e5a-456b-95b4-54315860d270)
+
+4. Click **Next** and follow the wizard to configure the virtual machine:
    - **Name**: Enter a name for the VM (e.g., `Server2022-VM`).
    - **Location**: Choose a location for storing the VM files or use the default path.
    - **Generation**: Select **Generation 1** (unless you need UEFI support, in which case, select **Generation 2**).
@@ -43,7 +45,7 @@ This step-by-step lab guides you through installing **Windows Server 2022** on a
    - **Hard Disk**: Create a new virtual hard disk (at least 50GB).
    - **Installation Options**: Choose **Install an operating system from a bootable image file**, and browse to the **Windows Server 2022 ISO**.
 
-4. Click **Next** and **Finish**.
+5. Click **Next** and **Finish**.
 
 ### Step 2: Start the Virtual Machine and Boot from the ISO
 1. In **Hyper-V Manager**, select the newly created virtual machine.
