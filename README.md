@@ -150,19 +150,12 @@ Since this is a home server setup Yes was clicked for discovery of other PCs.
 ![image](https://github.com/user-attachments/assets/8c9b3285-2fd9-424f-a0b0-b67a4b9704d1)
 ![image](https://github.com/user-attachments/assets/03b645c3-27ff-4534-8002-8af2609d1797)
 
-
-### Step 9: Install Hyper-V Integration Services (If Needed)
-1. Open **Hyper-V Manager**.
-2. Right-click your VM and select **Insert Integration Services Setup Disk**.
-3. Open **File Explorer**, navigate to the virtual CD drive, and run the **Setup** file.
-4. Follow the on-screen instructions to complete the installation.
-
-### Step 10: Configure Security Settings
+### Step 9: Configure Security Settings
 1. Open **Windows Defender Firewall** and ensure it is enabled.
 2. Configure firewall rules as needed for your use case.
 3. Enable **Windows Defender Antivirus** and perform an initial scan.
 
-### Step 11: Create a Checkpoint (Snapshot) in Hyper-V
+### Step 10: Create a Checkpoint (Snapshot) in Hyper-V
 1. Open **Hyper-V Manager**.
 2. Right-click your VM and select **Checkpoint**.
 3. Name the checkpoint (e.g., `Fresh Install`).
